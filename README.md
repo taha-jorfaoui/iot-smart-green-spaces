@@ -25,6 +25,10 @@ flowchart LR
 
 ![Données JSON dans MongoDB Atlas](images/donnees-mongodb.jpg)
 
+![Flow Node-RED de la passerelle (identifiants masqués)](images/node-red-flow.jpg)
+
+![Messages MQTT reçus sur le broker HiveMQ](images/mqtt-hivemq-messages.jpg)
+
 ## Résultats et limites
 
 - Chaîne de bout en bout validée, de l'acquisition à la visualisation en temps réel.
